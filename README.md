@@ -28,9 +28,6 @@ grep -n 'class="ph"' *.html
 
 What's needed:
 
-- **CIN** and **registered office address**: footer of every page, plus `about.html` and `contact.html`
-- **Year founded** and **incorporation date**: `about.html`
-- **Leadership** names, roles and bios: `about.html` (delete any cards you don't need)
 - **Email addresses** `hello@` and `careers@ab47techlabs.com`: set up these mailboxes, or change them
 - **Legal pages**: last-updated date, Grievance Officer, jurisdiction city. Have a lawyer review both pages, then delete the yellow "Draft" notice.
 
